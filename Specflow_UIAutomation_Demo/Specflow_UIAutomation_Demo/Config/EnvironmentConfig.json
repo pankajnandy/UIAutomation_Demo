@@ -1,0 +1,15 @@
+{
+  "Environments": [
+    {
+      "Name": "UAT",
+      "Url": "https://qa-challenge.codesubmit.io",
+      "ConnectionString": ""
+    },
+    {
+      "Name": "QA",
+      "Url": "https://qa-challenge.codesubmit.io",
+      "ConnectionString": ""
+    }
+  ]
+
+}
